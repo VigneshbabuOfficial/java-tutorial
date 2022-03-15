@@ -34,6 +34,7 @@ public class Practice {
 //		d = 25;
 	}
 
+	@SuppressWarnings("unused")
 	private void assign() {
 		
 //		ERROR : The final field Practice.a b c d cannot be assigned

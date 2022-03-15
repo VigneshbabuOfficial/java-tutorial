@@ -8,6 +8,8 @@ import java.io.Serializable;
 
 public class TransientExample implements Serializable {
 
+	private static final long serialVersionUID = -3236229881342374903L;
+
 	public int nonTrans = 0;
 
 	public String nonTransStr = "nonTransStr";
