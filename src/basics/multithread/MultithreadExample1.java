@@ -19,3 +19,13 @@ public class MultithreadExample1 implements Runnable {
 	}
 
 }
+
+//OUTPUT
+
+/*
+* 
+* Runnable run method 
+* Runnable run method 
+* Runnable run method
+* 
+*/

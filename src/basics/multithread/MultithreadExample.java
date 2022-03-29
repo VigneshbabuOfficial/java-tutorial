@@ -15,3 +15,13 @@ public class MultithreadExample extends Thread {
 	}
 
 }
+
+
+
+// OUTPUT
+
+/*
+ * 
+ * Thread run method 
+ * 
+ */
